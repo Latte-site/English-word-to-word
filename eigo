@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>喉発音音節表記一覧</title>
+  <style>
+    body {
+      font-family: "Arial", sans-serif;
+      background: #f4f9ff;
+      color: #333;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    table {
+      width: 80%;
+      margin: 2rem auto;
+      border-collapse: collapse;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 1rem;
+      border: 1px solid #ddd;
+      font-size: 1.2rem;
+    }
+    th {
+      background-color: #3498db;
+      color: white;
+    }
+    em {
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>喉発音音節表記 一覧</h1>
+  <table>
+    <tr>
+      <th>英単語</th>
+      <th>喉発音音節表記</th>
+    </tr>
+    <tr>
+      <td>fever</td>
+      <td><em>F-I̲̲-V / V-E̲-R</em></td>
+    </tr>
+    <tr>
+      <td>don’t</td>
+      <td><em>D-O-NT</em></td>
+    </tr>
+    <tr>
+      <td>help</td>
+      <td><em>*H*-E-LP</em></td>
+    </tr>
+    <tr>
+      <td>speaking</td>
+      <td><em>SP-I-K / K-I-NG</em></td>
+    </tr>
+    <tr>
+      <td>real</td>
+      <td><em>R-E̲-Y / Y-A-L</em></td>
+    </tr>
+    <tr>
+      <td>actual</td>
+      <td><em>*A*-K / K-C̲H̲-U / U-A-L</em></td>
+    </tr>
+  </table>
+
+</body>
+</html>
